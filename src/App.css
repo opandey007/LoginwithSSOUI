@@ -23,7 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+#signinTab {
+  display: none;
+}
+.webapplogo {
+  width: 200px;
+}
 .App-link {
   color: #61dafb;
 }
